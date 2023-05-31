@@ -8,10 +8,10 @@
 
 <h2> Тестови според Every branch критериумот </h2>
 
-Test case 1: UserIsNull
-Test case 2: PasswordIsNull
-Test case 3: EmailIsNull
-Test case 4: PasswordIsValid
-Test case 5: PasswordHasEmptySpace
-Test case 6: PasswordWithoutSpecialCharacters
-Test case 7: PasswordAndEmailNull
+Test case 1: UserIsNull </br>
+Test case 2: PasswordIsNull </br>
+Test case 3: EmailIsNull </br>
+Test case 4: PasswordIsValid </br>
+Test case 5: PasswordHasEmptySpace </br>
+Test case 6: PasswordWithoutSpecialCharacters </br>
+Test case 7: PasswordAndEmailNull </br>
