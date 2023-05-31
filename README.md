@@ -20,3 +20,12 @@ Test case 8: Password-от го содржи Username-от или е помал 
 <h2> Тестови според Multiple condition критериумот </h2>
 
 За Multiple Condition критериумот треба да ги разгледаме сите можни комбинации на услови во if (user==null || user.getPassword()==null || user.getEmail()==null).
+
+Test case 1: нема Username, нема Password, нема Email </br>
+Test case 2: има Username, нема Password, нема Email </br>
+Test case 3: нема Username, има Password, нема Email </br>
+Test case 4: нема Username, нема Password, има Email </br>
+Test case 5: има Username, има Password, нема Email </br>
+Test case 6: има Username, има Password, има Email </br>
+Test case 7: нема Username, има Password, има Email </br>
+Test case 8: има Username, нема Password, има Email </br>
