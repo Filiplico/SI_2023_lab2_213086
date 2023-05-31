@@ -5,3 +5,13 @@
 <h2> Цикломатска комплексност </h2>
 
 Цикломатксата комплексност на Control Flow графот ја добив со броење на регионите и според тоа е 11.
+
+<h2> Тестови според Every branch критериумот </h2>
+
+Test case 1: UserIsNull
+Test case 2: PasswordIsNull
+Test case 3: EmailIsNull
+Test case 4: PasswordIsValid
+Test case 5: PasswordHasEmptySpace
+Test case 6: PasswordWithoutSpecialCharacters
+Test case 7: PasswordAndEmailNull
