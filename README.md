@@ -25,3 +25,4 @@ Test case 1: Не постои User </br>
 Test case 2: има Username, нема Password, има Email </br>
 Test case 3: има Username, има Password, нема Email </br>
 Test case 4: има Username, има Password, има Email </br>
+Test case 5: нема Username, нема Password, нема Email </br>
